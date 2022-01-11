@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# NKIA ITAM (React)
+해당 프로젝트는 React 버전으로 구성된 ITAM 프로젝트입니다.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
